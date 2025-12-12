@@ -1,0 +1,50 @@
+body{
+  background: url(bg.jpg) no-repeat center;
+  font-family: "Ubuntu",sans-serif;
+}
+.text {
+  text-align: center;
+  margin-top: 47px;
+  margin-bottom: 40px;
+  font-size: 39px;
+  font-weight: 400;
+}
+#form {
+  background: #fff;
+  margin: 30px auto;
+  width: 832px;
+}
+select {
+  width: 384px;
+  height: 37px;
+  border-radius: 3px;
+  background-color: #ededed;
+}
+.form-check-input {
+  height: 21px;
+  width: 21px;
+}
+.form-group input{
+  background-color: #ededed;
+}
+.placeholder{
+  color: #9d9d9d;
+}
+p{
+  margin-left: 15px;
+  padding-top: 4px;
+}
+.btn{
+  display: block;
+  padding: 10px 20px;
+  color: #333;
+  font-size: 16px;
+  border: 1px solid  #9d9d9d;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: .3s linear;
+}
+.btn:hover{
+  background-color: #bc252a;
+  color: #fff;
+}
